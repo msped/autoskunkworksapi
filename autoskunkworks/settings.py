@@ -44,10 +44,11 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'rest_framework',
     'djoser',
-
+    'corsheaders',
     'accounts',
 
     'rest_framework_simplejwt.token_blacklist',
+    'django_cleanup.apps.CleanupConfig',
 ]
 
 MIDDLEWARE = [
