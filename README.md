@@ -1,3 +1,3 @@
 # AutoSkunkWorks API
 
-Backend for AutoSkunkWorks with the Django Rest Framework.
+Backend for AutoSkunkWorks using the Django Rest Framework.
