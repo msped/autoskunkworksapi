@@ -1,0 +1,7 @@
+env/
+*.pyc
+.env
+.coverage
+htmlcov/
+.vscode/
+/media
